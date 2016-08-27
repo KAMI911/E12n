@@ -18,6 +18,7 @@ Te miben vagy a legjobb? Biztos van olyan téma amiben profi vagy, mert az a hob
 
 
 Böngészd az internetet a követés elleni védelemmel a személyes adataidra vigyázó, leginkább testreszabható böngészőjét, amely az elmúlt évek folyamán teljesen megújult. Ha régebben Firefoxot használtál, érdemes egy új verziót letölteni és újra kipróbálni. A Firefox áthozhatja jelenleg használt böngésződből a könyvjelzőidet, böngészési előzményeidet, űrlapkitöltéseidet, jelszavaidat. Firefox elérhető [Linuxra, Windowsra, Mac OS X asztali operációs rendszerek](https://www.mozilla.org/en-US/firefox/all/#hu) mellett [Android](https://www.mozilla.org/hu/firefox/android/)-ra és [iOS](https://itunes.apple.com/hu/app/firefox-web-browser/id989804926)-re. A Sync szolgáltatás használatával képes a  könyvjelzőidet, böngészési előzményeidet, űrlapkitöltéseidet, jelszavaidat az eszközeid között szinkronizálni, sőt még az asztali gépen megnyitott lapokat is meg tudod nézni a mobilodon.
+[Firefox bemutató](https://www.mozilla.org/en-US/firefox/desktop/)
 
 [Like-old a Mozilla Facebook oldalát](https://www.facebook.com/MozillaHU)
 [Ha segítségedre lenne szükséged](https://support.mozilla.org/hu/)
