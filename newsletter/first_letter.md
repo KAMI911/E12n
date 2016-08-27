@@ -21,6 +21,8 @@ Böngészd az internetet a követés elleni védelemmel a személyes adataidra v
 [Firefox bemutató](https://www.mozilla.org/en-US/firefox/desktop/)
 
 [Like-old a Mozilla Facebook oldalát](https://www.facebook.com/MozillaHU)
+
 [Ha segítségedre lenne szükséged](https://support.mozilla.org/hu/)
+
 [Ha szívesen segítenél a Mozilla projektben](https://www.facebook.com/groups/mobilizerhungary)
 
