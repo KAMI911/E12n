@@ -245,6 +245,7 @@ A privát böngészési ablakban a Firefox nem tartja meg a böngészés előzm�
 Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
  #Firefox #FirefoxNapiTipp #Mozilla
 
+
 FIREFOX TIPP:
 Tudtátok, hogy a Firefox kínál jó néhány olyan felületet, amelyet csak speciális módon lehet elérni?
 A lehetséges oldalak megjelenítéséhez nem kell mást tenni csak nyitni egy új lapot és a hely mezőbe beírni:
@@ -263,6 +264,34 @@ Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
 FIREFOX OS TIPP:
 Belevágnál a Firefox OS alkalmazás fejlesztésbe? Itt a sillabusz, hogy hol találsz információt:
 http://itcafe.hu/hir/mozilla_firefox_os_kisokos.html
+Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
+ #Firefox #FirefoxNapiTipp #Mozilla
+
+
+FIREFOX TIPP:
+Tenuld meg a lapok kezelését a Firefoxban:
+https://support.mozilla.org/hu/kb/Lapok%20kezel%C3%A9se
+Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
+ #Firefox #FirefoxNapiTipp #Mozilla
+
+
+FIREFOX TIPP:
+A Sync segítségével megoszthatod adatait és beállításaidat (például könyvjelzőket, böngészési előzményeket, jelszavakat, megnyitott böngészőlapokat, olvasási listádat és telepített bővítményeket) valamennyi eszköze között. Ez a leírás segít feltelepíteni a Sync szolgáltatást:
+https://support.mozilla.org/hu/kb/firefox-sync-telepitese
+Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
+ #Firefox #FirefoxNapiTipp #Mozilla
+
+
+FIREFOX TIPP:
+Ismerd meg, hogyan importálhatsz beállítások más böngészőből, vagy mentheted ki a böngészési adatokat. 
+https://support.mozilla.org/hu/products/firefox/manage-preferences-and-add-ons-firefox/import-settings-other-browsers-firefox
+Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
+ #Firefox #FirefoxNapiTipp #Mozilla
+
+
+FIREFOX TIPP:
+Ha valami nem úgy működne a Firefox-odban, mint ahogy szeretnéd, akkor így tudod felismerni és megjavítani a legtöbb hibát:
+https://support.mozilla.org/hu/products/firefox/fix-problems/procedures-diagnose-and-fix-problems
 Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
  #Firefox #FirefoxNapiTipp #Mozilla
 

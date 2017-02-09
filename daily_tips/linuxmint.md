@@ -125,6 +125,21 @@ Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
  #LinuxMint #LinuxMintHU #NapiLinuxMint #LinuxMintTIPP
 
 
+FIREFOX TIPP:
+A Linux Mint-be alapértelmezett böngészőben a Firefox-ban a Sync segítségével megoszthatod adatait és beállításaidat (például könyvjelzőket, böngészési előzményeket, jelszavakat, megnyitott böngészőlapokat, olvasási listádat és telepített bővítményeket) valamennyi eszköze között. Ez a leírás segít feltelepíteni a Sync szolgáltatást:
+https://support.mozilla.org/hu/kb/firefox-sync-telepitese
+Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
+  #LinuxMint #LinuxMintHU #NapiLinuxMint #LinuxMintTIPP #Firefox #FirefoxNapiTipp #Mozilla
+
+
+LINUX MINT TIPP:
+Kérünk Titeket, hogy segítsetek!
+Érdekes és sok elfoglaltsággal járó feladat egy disztribúció hazai honlapjának fenntartása. Számos tevékenység van, amiben számítunk a közösség segítségére. Ha van egy kis szabadidőd és szívesen segítenéd a Linux Mint magyarországi közösségét, akkor ne tétovázz. Jelentkezz még ma!
+https://linuxmint.hu/kozremukodes
+Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
+ #LinuxMint #LinuxMintHU #NapiLinuxMint #LinuxMintTIPP
+
+
 ##Sablonok
 
 LINUX MINT TIPP:
