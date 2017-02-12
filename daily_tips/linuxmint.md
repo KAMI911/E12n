@@ -140,6 +140,55 @@ Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
  #LinuxMint #LinuxMintHU #NapiLinuxMint #LinuxMintTIPP
 
 
+LINUX MINT TIPP:
+Tudtad, hogy Windows alatt futó alkalmazások is elindíthatók Linux Mint alatt is? Nem minden tökéletes, de nagyon sok alkalmazás jól működik:
+Ismerd meg a Wine-t! https://linuxmint.hu/sugo/wine
+Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
+ #LinuxMint #LinuxMintHU #NapiLinuxMint #LinuxMintTIPP
+
+
+LINUX MINT TIPP:
+Vezesd nálunk a blogodat! https://linuxmint.hu/blog
+Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
+ #Blog #LinuxMint #LinuxMintHU #NapiLinuxMint #LinuxMintTIPP
+
+
+LINUX MINT TIPP:
+Próbáld ki a legújabb Linux Mint-et! https://linuxmint.hu/letoltesek
+Melyik verziót használjátok? Melyik asztali felülettel?
+Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
+ #LinuxMint #LinuxMintHU #NapiLinuxMint #LinuxMintTIPP
+
+
+LINUX MINT TIPP:
+Még mindig Windows XP-t használsz? A Linux Mint lehet számodra a megoldás!
+https://linuxmint.hu/valtas-windows-rol-linux-mint-re
+Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
+ #LinuxMint #LinuxMintHU #NapiLinuxMint #LinuxMintTIPP
+
+
+LINUX MINT TIPP:
+Hogyan kezeld a fájlokat és dokumentumokat Linux Mint alatt:
+https://linuxmint.hu/sugo/fajlok-mappak-es-dokumentumok
+Te melyik fájlkezelőt használod?
+Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
+ #LinuxMint #LinuxMintHU #NapiLinuxMint #LinuxMintTIPP
+
+
+LINUX MINT TIPP:
+Kedveled a szabad szoftvereket? Imádni fogod a szabad tartalmakat is. Összefoglaló Pfeiffer Szilárd (BalaBit) : Creative Commons: Hat licenc mind felett - előadásából:
+https://www.youtube.com/watch?v=OOwfm0Cy8ps
+Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
+ #LinuxMint #LinuxMintHU #NapiLinuxMint #LinuxMintTIPP
+
+
+LINUX MINT TIPP:
+Windows mellé telepítenéd a Linux Mint-et? Ennek semmi akadálya, csakk kövesd a leírásainkat:
+https://linuxmint.hu/sugo/dual-boot-rendszer-telepitese-windows-es-linux-egy-szamitogepen
+Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
+ #LinuxMint #LinuxMintHU #NapiLinuxMint #LinuxMintTIPP
+
+
 ##Sablonok
 
 LINUX MINT TIPP:

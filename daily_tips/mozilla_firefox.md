@@ -296,6 +296,19 @@ Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
  #Firefox #FirefoxNapiTipp #Mozilla
 
 
+FIREFOX TIPP:
+Kedveled a szabad szoftvereket? Imádni fogod a szabad tartalmakat is. Összefoglaló Pfeiffer Szilárd (BalaBit) : Creative Commons: Hat licenc mind felett - előadásából:
+https://www.youtube.com/watch?v=OOwfm0Cy8ps
+Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
+ #Firefox #FirefoxNapiTipp #Mozilla
+
+FIREFOX TIPP:
+Az internetezés közben a Firefox segítőkészen emlékszik számos, a felhasználó számára fontos információra, például a meglátogatott weboldalakra. De néha lehet, hogy nem szeretnéd, hogy a számítógép többi felhasználója lássa ezeket az adatokat. Például, ha éppen ajándékot keresel. A Privát böngészés lehetővé teszi, hogy anélkül internetezzél, hogy bármilyen információ is mentésre kerüljön a meglátogatott weboldalról.
+https://support.mozilla.org/t5/Tartsa-adatait-biztons%C3%A1gban/Priv%C3%A1t-b%C3%B6ng%C3%A9sz%C3%A9s-internetez%C3%A9s-a-megl%C3%A1togatott-weboldallal/ta-p/12300
+Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
+ #Firefox #FirefoxNapiTipp #Mozilla #MozillaHU
+
+
 ##Sablonok
 
 FIREFOX TIPP:
