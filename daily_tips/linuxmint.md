@@ -189,6 +189,20 @@ Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
  #LinuxMint #LinuxMintHU #NapiLinuxMint #LinuxMintTIPP
 
 
+LINUX MINT TIPP:
+Érdekel a jogi háttere, hogy miért tölthető le és használható a Linux Mint mind a saját gépedre, mind pedig a céges gépeidre ingyenesen?
+https://www.youtube.com/watch?v=oH1MKguofl0
+Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
+ #LinuxMint #LinuxMintHU #NapiLinuxMint #LinuxMintTIPP
+
+
+LINUX MINT TIPP:
+Tudtad, hogy a Linux Mint négyféle asztali környezettel érhető el?
+A Cinnamon és a MATE kifejezetten a Linux Minthez készült saját fejlesztés, a KDE egy robusztus, sokoldalúságáról híres tradicionális környezet, míg az Xfce használatát a kisebb teljesítményű számítógépekhez ajánljuk. Te melyik környezetet használod? Vagy melyiket szeretnjéd kipróbálni?
+Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
+ #LinuxMint #LinuxMintHU #NapiLinuxMint #LinuxMintTIPP
+
+
 ##Sablonok
 
 LINUX MINT TIPP:

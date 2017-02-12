@@ -302,9 +302,31 @@ https://www.youtube.com/watch?v=OOwfm0Cy8ps
 Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
  #Firefox #FirefoxNapiTipp #Mozilla #MozillaHU
 
+
 FIREFOX TIPP:
 Az internetezés közben a Firefox segítőkészen emlékszik számos, a felhasználó számára fontos információra, például a meglátogatott weboldalakra. De néha lehet, hogy nem szeretnéd, hogy a számítógép többi felhasználója lássa ezeket az adatokat. Például, ha éppen ajándékot keresel. A Privát böngészés lehetővé teszi, hogy anélkül internetezzél, hogy bármilyen információ is mentésre kerüljön a meglátogatott weboldalról.
 https://support.mozilla.org/t5/Tartsa-adatait-biztons%C3%A1gban/Priv%C3%A1t-b%C3%B6ng%C3%A9sz%C3%A9s-internetez%C3%A9s-a-megl%C3%A1togatott-weboldallal/ta-p/12300
+Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
+ #Firefox #FirefoxNapiTipp #Mozilla #MozillaHU
+
+
+OPENBADGES TIPP:
+A digitális tanulás világában természetes, ha a tanulói teljesítmények minősítése is digitális formában történik. Az Open Badges és a Mozilla által biztosított infrastruktúra ennek a lehetőséget teremti meg. Nem pusztán egyszerű értékelésről van szó, hanem akár az egymásra épülő tanulói tevékenységek komplex rendszerében elért teljesítmények hitelesítéséről és dokumentálásáról. A digitális jelvények tudásodat reprezentálják, személyes portfóliód része. Képzed magad? Vagy másokat képzel?
+https://www.youtube.com/watch?v=G3ZXgfBkhXA
+Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
+ #Firefox #FirefoxNapiTipp #Mozilla #MozillaHU #OpenBadges
+
+
+FIREFOX TIPP:
+Ismered az intelligens címsor minden trükkjét? Ha igen, akkor már tudod, milyen sok mindenben tud segíteni! Ha nem, akkor itt van egy bőséges leírás:
+https://support.mozilla.org/t5/B%C3%B6ng%C3%A9sz%C3%A9s/Az-intelligens-c%C3%ADmsor/ta-p/8280
+Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
+ #Firefox #FirefoxNapiTipp #Mozilla #MozillaHU
+
+
+FIREFOX TIPP:
+Érdekel a jogi háttere, hogy miért tölthető le és telepíthető a Firefox mind a saját gépedre, mind pedig a céges gépeidre ingyenesen?
+https://www.youtube.com/watch?v=oH1MKguofl0
 Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
  #Firefox #FirefoxNapiTipp #Mozilla #MozillaHU
 
