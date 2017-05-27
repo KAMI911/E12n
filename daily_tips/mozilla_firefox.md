@@ -63,6 +63,14 @@ Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
 
 
 FIREFOX TIPP:
+Kiegészítők letiltása és törlése
+A kiterjesztések, a témák és a bővítmények mind a Firefox kiegészítői. Ez a leírás bemutatja hogyan lehet letiltani és törölni a kiegészítőket. 
+https://support.mozilla.org/hu/kb/kiegeszitok-letiltasa-es-torlese
+Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
+ #Firefox #FirefoxNapiTipp #Mozilla #MozillaHU
+
+
+FIREFOX TIPP:
 Te szereted a robotokat és a számítógépeket? Ők is szeretnek téged. Írd be a böngésző címsorába a következő kifejezést, hogy megtudd mennyire szeretnek:
 about:robots
 Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!

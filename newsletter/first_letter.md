@@ -1,4 +1,4 @@
-﻿Kedves {0}!
+Kedves {0}!
 
 
 Ezt a levelet azért kaptad, mert jelezted nekünk, hogy **szeretnél többet megtudni a szabad szoftverekről és szabad tartalmakról**, valamint **érdekelnek az ezzel kapcsolatos közreműködési lehetőségek**, vagy regisztráltál egy rendezvényre.
