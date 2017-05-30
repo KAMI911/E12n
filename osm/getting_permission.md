@@ -1,4 +1,4 @@
-Tisztelt {name}!
+﻿Tisztelt {name}!
 
 {name_2} vagyok, a magyar OpenStreetMap egyik szerkesztője. Más önkéntes szerkesztőkkel közösen a {city} térképek pontosításán és hasznos POI-k felvételén dolgozom. Célunk a részletes és pontos térkép elkészítése. Ezúton tisztelettel kérem, hogy tekintse meg mindenki számára szabadon elérhető és letölthető térképünket a következő oldalon:
 
@@ -8,7 +8,7 @@ A projekt csak törvényesen felhasználható adatokat tartalmaz, amelyet a OdbL
 
 Erről részletesen itt olvashat: [https://hu.wikipedia.org/wiki/Open_Database_License]
 
-Szeretnénk arra kérni az Ön által képviselt intézményt, hogy a fenti licenceknek megfelelően legyenek szívesek az OpenStreetMap projekt részére a téradatokat biztosítani, OdbL licenccel kompatibilis licenc alatt. Az így közzétett adatok beépülhetnek az OpenStreetMap térképi adatbázisába és a közösség számára hasznosíthatóvá válnak.
+Szeretnénk arra kérni az Ön által képviselt intézményt, hogy a fenti licenceknek megfelelően legyenek szívesek az OpenStreetMap projekt részére az Önök tulajdonában álló téradatokat biztosítani, OdbL licenccel kompatibilis licenc alatt. Az így közzétett adatok beépülhetnek az OpenStreetMap térképi adatbázisába és a közösség számára hasznosíthatóvá válnak.
 
 Az OpenStreetMap számára hasznosak lehetnek:
 
@@ -20,8 +20,9 @@ Az OpenStreetMap számára hasznosak lehetnek:
 * bázisállomások,
 * tűzcsapok,
 * segélykérő berendezések,
-* Bubi álllomások,
+* Bubi állomások,
 * fák,
+* parkolók helye és befogadóképessége,
 * metrók pontos vonalvezetése (ha nem túl titkos),
 * épületek körvonalai (már ami látszik belőlük),
 * stop és elsőségadás kötelező táblák,
@@ -30,6 +31,13 @@ Az OpenStreetMap számára hasznosak lehetnek:
 * az OpenStreetMap szerkesztői által használható aktuális ortofotók,
 * POI-k
 * bármi más adat, amelyek az OpenStreetMap térképi adatbázisát javítja és pontosítja.
+
+Miért jó Önöknek, hogy az OpenStreetMap számára tesznek elérhetővé téradatot?
+­
+* Az OpenStreetMap önkéntesei rengetege adatot rögzítenek lelkesedésből. Például amennyiben egy területről rendelkezésre áll jó minőségű ortofotó, ott az OpenStreetMap-en akár ház-házszám pontosságú térkép készül.
+* Az OpenStreetMap számára elérhetővé tett adatokat szorgalmas önkéntesek gondozzák, így az adatok publikálása az Önök részéről további erőfeszítést nem igényel.
+* Mindenki számára ingyenesen elérhető, off-line is használható mobilos navigációs eszközökhöz, útvonaltervezéshez fontos a minél pontosabb térkép.
+* Az ilyen módon közzétett adatok mindenki számára elérhetőek és felhasználhatók. Így bárki készíthet tematikus térképeket az adatok egy részének megjelenítésével.
 
 
 Bízom benne, hogy Önök számára is izgalmasan hangzik az eddig a polgárok számára nem elérhető adatok közcélú, és a közösség céljait szolgáló nyilvánosságra hozása.
