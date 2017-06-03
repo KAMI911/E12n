@@ -121,7 +121,15 @@ Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
 
 
 MOZILLA TIPP:
-A Firefox böngésző és a Firefox OS okostelefon operációs rendszer fejlesztéséről ismert Mozilla 2014-ben örökbe fogadta a Fővárosi Állat- és Növénykert két kis vörös pandáját Ambrust és Aurorát. A PLATINA fokozatú támogatással az Mozilla nem csak a vörös pandákon, hanem az állatkert valamennyi lakóját segíti.
+Ma már alap, hogy egy weboldal titkosított csatornán érhető el. Ha a Te weboldalad még nem ilyen, akkor itt az idő, hogy https-re válts! Nem csak nagyobb biztonásgot jelent, de még a keresők is előrébb fogják rengsoroloni az oldaladat!
+További tudnivalókat és a beállítással kapcsolatos konkrét lépéseket itt találod: 
+https://letsencrypt.org/
+Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
+ #Titkosítás #letsencrypt #encryption  #MozillaTipp #Mozilla #MozillaHU
+
+
+MOZILLA TIPP:
+A Firefox böngésző fejlesztéséről ismert Mozilla 2014-ben örökbe fogadta a Fővárosi Állat- és Növénykert két kis vörös pandáját Ambrust és Aurorát. A PLATINA fokozatú támogatással az Mozilla nem csak a vörös pandákon, hanem az állatkert valamennyi lakóját segíti.
 Itt találsz pár képet: 
 https://www.facebook.com/media/set/?set=a.10151906075331479.1073741876.372155461478
 Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
@@ -178,7 +186,7 @@ MOZILLA TIPP:
 Idén milyen rendezvényt kellene szerveznünk? Vagy milyen rendezvényen kellene ott lennünk?
 https://www.youtube.com/watch?v=AlPZWWVdE88
 Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
- #Firefox #MozillaTipp #Mozilla #MozillaHU
+ #Firefox #MozillaTipp #Mozilla #MozillaHU #FirefoxOS
 
 
 FIREFOX TIPP:
