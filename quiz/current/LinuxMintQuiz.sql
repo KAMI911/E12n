@@ -126,7 +126,7 @@ INSERT INTO `mq_new`.`quizQuestions` (`idQuestion`,`textQuestion`,`quizLanguage`
 INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`,`quizLanguage`) VALUES (64,1,"tar.gz","hu");
 INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`,`quizLanguage`) VALUES (64,2,"pkg","hu");
 INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`,`quizLanguage`) VALUES (64,3,"deb","hu");
-INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`,`quizLanguage`) VALUES (64,3,"rpm","hu");
+INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`,`quizLanguage`) VALUES (64,4,"rpm","hu");
 INSERT INTO `mq_new`.`rightAnswers` (`idQuestion`,`idChoice`,`score`) VALUES (64,3,5);
 
 INSERT INTO `mq_new`.`quizQuestions` (`idQuestion`,`textQuestion`,`quizLanguage`,`quizType`) VALUES (65,"Ki a projektvezetője a Linux Mint projektnek?","hu",2);
