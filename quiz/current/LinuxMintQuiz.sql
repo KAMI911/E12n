@@ -30,7 +30,7 @@ INSERT INTO `mq_new`.`quizQuestions` (`idQuestion`,`textQuestion`,`quizLanguage`
 INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`,`quizLanguage`) VALUES (54,1,"Kern András nemrég megjelent, melankolikus hangulatú nagylemeze.","hu");
 INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`,`quizLanguage`) VALUES (54,2,"Az operációs rendszer alapja, amely felelős a hardver erőforrásainak kezeléséért.","hu");
 INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`,`quizLanguage`) VALUES (54,3,"Friss űrtechnikai fejlesztés, amely a billentyűzetet fogja leváltani hamarosan.","hu");
-INSERT INTO `mq_new`.`rightAnswers` (`idQuestion`,`idChoice`,`score`) VALUES (55,2,5);
+INSERT INTO `mq_new`.`rightAnswers` (`idQuestion`,`idChoice`,`score`) VALUES (54,2,5);
 
 INSERT INTO `mq_new`.`quizQuestions` (`idQuestion`,`textQuestion`,`quizLanguage`,`quizType`) VALUES (55,"A Linux Mint, az Ubuntu, a Fedora operációs rendszer:","hu",2);
 INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`,`quizLanguage`) VALUES (55,1,"Ingyenesen letölthető és használható, a frissítések is ingyenesek.","hu");
