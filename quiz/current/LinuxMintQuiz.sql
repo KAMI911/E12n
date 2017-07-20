@@ -101,7 +101,7 @@ INSERT INTO `mq_new`.`rightAnswers` (`idQuestion`,`idChoice`,`score`) VALUES (60
 INSERT INTO `mq_new`.`rightAnswers` (`idQuestion`,`idChoice`,`score`) VALUES (60,11,5);
 INSERT INTO `mq_new`.`rightAnswers` (`idQuestion`,`idChoice`,`score`) VALUES (60,12,5);
 
-INSERT INTO `mq_new`.`quizQuestions` (`idQuestion`,`textQuestion`,`quizLanguage`,`quizType`) VALUES (61,"Hol veheted fel a kapcsolatot a Linux Mint hazai közösségével?","hu",);
+INSERT INTO `mq_new`.`quizQuestions` (`idQuestion`,`textQuestion`,`quizLanguage`,`quizType`) VALUES (61,"Hol veheted fel a kapcsolatot a Linux Mint hazai közösségével?","hu",2);
 INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`,`quizLanguage`) VALUES (61,1,"A https://www.linuxmint.hu weboldalon.","hu");
 INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`,`quizLanguage`) VALUES (61,2,"A „linuxminthungary” Facebook oldalon.","hu");
 INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`,`quizLanguage`) VALUES (61,3,"A https://www.linuxmint.hu/forum/ fórumon.","hu");
