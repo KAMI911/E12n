@@ -94,4 +94,5 @@ https://upload.wikimedia.org/wikipedia/commons/4/4a/Debian-OpenLogo.svg
 
 https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg
 
+https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg
 
