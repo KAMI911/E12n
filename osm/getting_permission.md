@@ -42,6 +42,12 @@ Miért jó Önöknek, hogy az OpenStreetMap számára tesznek elérhetővé tér
 
 Bízom benne, hogy Önök számára is izgalmasan hangzik az eddig a polgárok számára nem elérhető adatok közcélú, és a közösség céljait szolgáló nyilvánosságra hozása.
 
+Amennyiben szabadon felhasználhatjuk a honlapjukon közzétett információkat, akkor küldjék vissza az alábbi nyilatkozatot:
+
+„Hozzájárulunk a honlapon elérhető információk szabad felhasználásához, OdbL licenc alatt, az OpenStreetMap közösségi térkép bővítésére.”
+
+Abban az esetben, ha további adatbázisokat, információkat küldenek levélben, úgy a licencet elfogadottnak tekintjük.
+
 
 A pozitív válaszukban bízva,
 

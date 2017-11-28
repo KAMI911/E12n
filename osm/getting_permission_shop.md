@@ -26,9 +26,9 @@ Bízom benne, hogy Önök számára is izgalmasan hangzik az eddig a polgárok s
 
 Amennyiben szabadon felhasználhatjuk a honlapjukon közzétett információkat, akkor küldjék vissza az alábbi nyilatkozatot:
 
-„Hozzájárulunk a honlapon elérhető információk szabad felhasználásához, OdbL licenc alatst, az OpenStreetMap közösségi térkép bővítésére.”
+„Hozzájárulunk a honlapon elérhető információk szabad felhasználásához, OdbL licenc alatt, az OpenStreetMap közösségi térkép bővítésére.”
 
-Amennyiben további adatbázisokat, információkat küldenek levélben, úgy a licencet elfogadottnak tekintjük.
+Abban az esetben, ha további adatbázisokat, információkat küldenek levélben, úgy a licencet elfogadottnak tekintjük.
 
 
 A pozitív válaszukban bízva,
@@ -37,12 +37,4 @@ A pozitív válaszukban bízva,
 Köszönettel,
 {name_2}
 
-
-------------------
-
-
-
-Szeretnénk arra kérni az Ön által képviselt intézményt, hogy a fenti licenceknek megfelelően legyenek szívesek az OpenStreetMap projekt részére az Önök tulajdonában álló téradatokat biztosítani, OdbL licenccel kompatibilis licenc alatt. Az így közzétett adatok beépülhetnek az OpenStreetMap térképi adatbázisába és a közösség számára hasznosíthatóvá válnak.
-Az Önök számára hasznos lenne, hiszen számos ingyenesen elérhető navigációs alkalmazásban (OsmAND, MAPS.ME) elérhetővé kereshetővé válnának az önök üzletei. A jövőben ezeket az adatokat önök is közvetlenül karbantarthatják, a térképen rögzítve az új áruházakat, megváltozott nyitvatartási időket.
-Az OpenStreetMap számára hasznosak lehetnek:
 
