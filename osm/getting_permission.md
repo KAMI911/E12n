@@ -34,9 +34,9 @@ Az OpenStreetMap számára hasznosak lehetnek:
 
 Miért jó Önöknek, hogy az OpenStreetMap számára tesznek elérhetővé téradatot?
 ­
-* Az OpenStreetMap önkéntesei rengetege adatot rögzítenek lelkesedésből. Például amennyiben egy területről rendelkezésre áll jó minőségű ortofotó, ott az OpenStreetMap-en akár ház-házszám pontosságú térkép készül.
+* Az OpenStreetMap önkéntesei rengeteg adatot rögzítenek lelkesedésből. Például amennyiben egy területről rendelkezésre áll jó minőségű ortofotó, ott az OpenStreetMap-en akár ház-házszám pontosságú térkép készül.
 * Az OpenStreetMap számára elérhetővé tett adatokat szorgalmas önkéntesek gondozzák, így az adatok publikálása az Önök részéről további erőfeszítést nem igényel.
-* Mindenki számára ingyenesen elérhető, off-line is használható mobilos navigációs eszközökhöz, útvonaltervezéshez fontos a minél pontosabb térkép.
+* Mindenki számára ingyenesen elérhető, off-line is használható mobilos navigációs eszközökhöz, útvonaltervezéshez fontos a minél pontosabb térkép. Pédául: MAPS.ME és OsmAnd mobil alkalmazások, illetve a [http://osm.org] weboldal.
 * Az ilyen módon közzétett adatok mindenki számára elérhetőek és felhasználhatók. Így bárki készíthet tematikus térképeket az adatok egy részének megjelenítésével.
 
 
