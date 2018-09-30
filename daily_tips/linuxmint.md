@@ -1,6 +1,6 @@
-#Linux Mint napi tippek
+# Linux Mint napi tippek
 
-##Tippek
+## Tippek
 
 LINUX MINT TIPP:
 A Super gomb (más rendszereken Windows gomb) lenyomásával megjelenik a Linux Mint Cinnamon felületének menüje. Egy alkalmazás elindításához elég leütni a Super gombot és elkezdeni begépelni az alkalmazás nevét. A megjelenő lehetőségek között fel és le gombbal tudsz válogatni. Enterrel indítható az adott alkalmazás.

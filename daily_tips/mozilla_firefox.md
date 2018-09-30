@@ -1,9 +1,10 @@
-#Mozilla és Firefox napi tippek
+# Mozilla és Firefox napi tippek
 
-##Tippek
+## Tippek
 
 FIGYELMEZTETÉS! A következőekben a nyugalom megzavarására alkalmas cuki képsorokat láthattok:
 https://www.youtube.com/watch?v=kOH27QkTVv4
+  #Firefox #Vöröspanda #MozillaHU
 
 
 FIREFOX TIPP:
@@ -19,7 +20,7 @@ Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
 
 FIREFOX TIPP:
 Tudtátok, hogy egy-egy keresőmotorhoz kulcsszavakat is rendelhettek?
-Kattintsatok a menüre → Beállítások → Keresés. Jelöljétek ki például a Wikipediat és kattintsatok duplán a „Kulcsszó” mezőre gombra. Adjátok meg a „w” betűt kulcsszóként. Kattintsatok az „OK” gombra. Ezentúl tudtok a „w ezt keresem” formában is keresni, például: „w Michael Jordan”
+Kattintsatok a menüre → Beállítások → Keresés. A „Egy kattintásos keresőszolgáltatások” jelöljétek ki például a Wikipediat és kattintsatok duplán a „Kulcsszó” mezőre gombra. Adjátok meg a „w” betűt kulcsszóként. Kattintsatok az „OK” gombra. Ezentúl tudtok a „w ezt keresem” formában is keresni, például: „w Michael Jordan”
 Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
  #Firefox #FirefoxNapiTipp #Mozilla #MozillaHU
 
@@ -27,12 +28,6 @@ Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
 FIREFOX TIPP:
 Tudtátok, hogy a megnyitott lapok között is tudtok keresni? Ehhez nem kell mást tenni csak nyitni egy új lapot és a hely mezőbe beírni százalékjel és szóköz után a keresett oldalt, valahogy így:
 % keresett lap
-Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
- #Firefox #FirefoxNapiTipp #Mozilla #MozillaHU
-
-
-FIREFOX TIPP:
-Ti is egyszerre több dolgot csináltok egy időben? A megnyitott lapokat csoportokba tudjátok rendezni. Ezt a lehetőséget a CTRL+SHIFT+E gombbal tudjátok elérni. Üres területen húzással új csoportokat hozhattok létre, átmozgathatjátok a lapokat a csoportok között, átnevezhetitek a csoportokat és kereshettek is bennük. Amint egy csoportnál többed van a lapokra füleire jobb gombbal kattintva a helyi menüben is át tudsz helyezni lapokat. A lapcsoportoknak külön gombot is kirakhattok az eszköztárakra, így kattintásnyi távolságra kerülnek lapcsoportjaid.
 Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
  #Firefox #FirefoxNapiTipp #Mozilla #MozillaHU
 
@@ -50,7 +45,7 @@ Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
 
 
 FIREFOX TIPP:
-Fedezd fel magadnak azokat a kiterjesztéseket, amit szinte mindenki használ? A kiterjesztések új funkciókkal látják el a böngésződet, amellyel aztán klassz dolgokat csinálhatsz, gyorsabban és biztonságosabban netezhetsz. Csak megbízható helyről telepíts kiterjesztéseket, mint amilyen a Mozilla Kiegészítők webhelye: 
+Fedezd fel magadnak azokat a kiterjesztéseket, amit szinte mindenki használ? A kiterjesztések új funkciókkal látják el a böngésződet, amellyel aztán klassz dolgokat csinálhatsz, gyorsabban és biztonságosabban netezhetsz. Csak megbízható helyről telepíts kiterjesztéseket, mint amilyen a Mozilla Kiegészítők webhelye:
 https://addons.mozilla.org/en-US/firefox/extensions/?sort=users
 Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
  #Firefox #FirefoxNapiTipp #Mozilla #MozillaHU
@@ -64,7 +59,7 @@ Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
 
 FIREFOX TIPP:
 Kiegészítők letiltása és törlése
-A kiterjesztések, a témák és a bővítmények mind a Firefox kiegészítői. Ez a leírás bemutatja hogyan lehet letiltani és törölni a kiegészítőket. 
+A kiterjesztések, a témák és a bővítmények mind a Firefox kiegészítői. Ez a leírás bemutatja hogyan lehet letiltani és törölni a kiegészítőket.
 https://support.mozilla.org/hu/kb/kiegeszitok-letiltasa-es-torlese
 Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
  #Firefox #FirefoxNapiTipp #Mozilla #MozillaHU
@@ -122,7 +117,7 @@ Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
 
 MOZILLA TIPP:
 Ma már alap, hogy egy weboldal titkosított csatornán érhető el. Ha a Te weboldalad még nem ilyen, akkor itt az idő, hogy https-re válts! Nem csak nagyobb biztonásgot jelent, de még a keresők is előrébb fogják rengsoroloni az oldaladat!
-További tudnivalókat és a beállítással kapcsolatos konkrét lépéseket itt találod: 
+További tudnivalókat és a beállítással kapcsolatos konkrét lépéseket itt találod:
 https://letsencrypt.org/
 Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
  #Titkosítás #letsencrypt #encryption  #MozillaTipp #Mozilla #MozillaHU
@@ -130,7 +125,7 @@ Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
 
 MOZILLA TIPP:
 A Firefox böngésző fejlesztéséről ismert Mozilla 2014-ben örökbe fogadta a Fővárosi Állat- és Növénykert két kis vörös pandáját Ambrust és Aurorát. A PLATINA fokozatú támogatással az Mozilla nem csak a vörös pandákon, hanem az állatkert valamennyi lakóját segíti.
-Itt találsz pár képet: 
+Itt találsz pár képet:
 https://www.facebook.com/media/set/?set=a.10151906075331479.1073741876.372155461478
 Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
  #Firefox #MozillaTipp #Mozilla #MozillaHU
@@ -215,7 +210,7 @@ Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
 
 
 FIREFOX TIPP:
-Valami nem úgy működik a Firefox-ban, mint szeretnéd? 
+Valami nem úgy működik a Firefox-ban, mint szeretnéd?
 Válaszd ki a „Súgó” → „Hibakeresési információ” menüpontot és azonnal látni fogod, hogy milyen kiterjesztések vannak telepítve, milyen „Fontos, módosított beállítások„ vannak és hogyan működik a hardveres gyorsítás. A „Firefox felfrissítése...” gombbal alaphelyzetbe állíthatod a böngésző profilodat is.
 Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
  #Firefox #FirefoxNapiTipp #Mozilla #MozillaHU
@@ -299,7 +294,7 @@ Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
 
 
 FIREFOX TIPP:
-Ismerd meg, hogyan importálhatsz beállítások más böngészőből, vagy mentheted ki a böngészési adatokat. 
+Ismerd meg, hogyan importálhatsz beállítások más böngészőből, vagy mentheted ki a böngészési adatokat.
 https://support.mozilla.org/hu/products/firefox/manage-preferences-and-add-ons-firefox/import-settings-other-browsers-firefox
 Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
  #Firefox #FirefoxNapiTipp #Mozilla #MozillaHU
@@ -347,6 +342,52 @@ Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
  #Firefox #FirefoxNapiTipp #Mozilla #MozillaHU
 
 
+FIREFOX TIPP:
+Ha a Firefox-szal, Thunderbird-del kapcsolatban kérdésed lenne, itt találhatod meg rá a választ: https://support.mozilla.org/hu/
+Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
+ #Firefox #FirefoxNapiTipp #Mozilla #MozillaHU
+
+
+MOZILLA TIPP:
+Hogyan tudsz segíteni? Jelentkezz Önkéntesnek és cikkeiddel, válaszaiddal tedd még jobbá a Mozilla közösségi támogatás oldalát: https://support.mozilla.org/hu/get-involved
+Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
+ #Firefox #FirefoxNapiTipp #Mozilla #MozillaHU
+
+
+FIREFOX TIPP:
+Régen valami nem volt jó, ezért váltottál böngészőt? Próbáld ki a legújabb Firefox-ot. Nagyobb sebesség, testreszabhatóság, és a magánszféra védelme. Kell ennél több?
+https://itcafe.hu/hir/mozilla_firefox_62.html
+Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
+ #Firefox #FirefoxNapiTipp #Mozilla #MozillaHU
+
+
+MOZILLA TIPP:
+Ebben a posztban a 2010 évi fesztiválos részvételünkről olvashatsz, nézhetsz képeket és egy összefoglaló videót is megtekinthetsz. Tudsz esetleg olyan fesztiválról, rendezvényről amin jövőre részt vehetnénk?
+Beszámoló: http://ubuntu.hu/node/19873
+Képek: https://www.flickr.com/photos/52295341@N04/sets/72157624562372712/
+Videó: https://www.youtube.com/watch?v=pF7WRKOnf7w
+Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
+ #Firefox #FirefoxNapiTipp #Mozilla #MozillaHU #Ubuntu #LinuxMint
+
+
+FIREFOX TIPP:
+Vigye magával a Firefoxot! Elkészült a legújabb Firefox for Android. Letöltés a Play áruházból: https://play.google.com/store/apps/details?id=org.mozilla.firefox
+Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
+ #Firefox #FirefoxNapiTipp #Mozilla #MozillaHU
+
+
+MOZILLA TIPP:
+Van időd egy kis mozira? Nézd meg a Firefox születésének történetét (magyar felirattal): https://www.youtube.com/embed/xsPxGr634rQ?version=3&hl=hu&cc_lang_pref=hu&cc_load_policy=1&fmt=22
+Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
+ #Firefox #FirefoxNapiTipp #Mozilla #MozillaHU
+
+
+FIREFOX TIPP:
+Mitől egészen más a Mozilla és a Firefox? Ebből a videóból megtudhatod: http://www.youtube.com/embed/e9jNYuivXZI?version=3&hl=hu&cc_lang_pref=hu&cc_load_policy=1&fmt=22
+Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
+ #Firefox #FirefoxNapiTipp #Mozilla #MozillaHU
+
+
 ##Sablonok
 
 FIREFOX TIPP:
@@ -359,5 +400,4 @@ MOZIlLA TIPP:
 
 Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
  #Firefox #FirefoxNapiTipp #Mozilla #MozillaHU
-
 
