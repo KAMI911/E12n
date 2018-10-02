@@ -14,7 +14,7 @@ Az utóbbi évek technikai fejlődésével elérhetővé vált a drónos felmér
 
 ## Drónos repülés tervezése és kivitelezése
 
-###Előkészületek
+### Előkészületek
 
 * Az automatizált repüléshez szükséges szoftver telepítése a mobiltelefonra (Pix4DCapture, DroneDeploy, ….)
 * A megfelelő terület felkutatása. #&@ jóvoltából több helyen elérhető repülőről előállított friss
