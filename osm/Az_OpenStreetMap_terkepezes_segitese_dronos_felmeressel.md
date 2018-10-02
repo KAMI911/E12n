@@ -10,7 +10,7 @@ Az OpenStreetMap térképeit közreműködők többféle módon bővíthetik:
 * helyszíni felméréssel (fotók, jegyzetek, GPS-nyomvonalak), 
 * szabadon elérhető műholdképek alapján (ortofotók),
 
-amely alapján az közreműködők szerkesztik a szükséges adatokat az OpenStreetMap adatbázisába.
+amely alapján a közreműködők szerkesztik a szükséges adatokat az OpenStreetMap adatbázisába.
 
 Az utóbbi évek technikai fejlődésével elérhetővé vált a drónos felmérés lehetősége. A drónos felmérés segítségével a műholdképeknél részletesebb és általában jelentősen naprakészebb ortofotók állíthatók elő. Ezekből a friss és részletesebb ortofotókból az OpenStreetMap részletgazdagabban szerkeszthetőek meg, olyan plusz információkat is elérhetővé téve, amelyek a szabadon elérhető műholdképek ortofotóiból nem láthatóak.
 
