@@ -20,8 +20,8 @@ Az utóbbi évek technikai fejlődésével elérhetővé vált a drónos felmér
 
 * Az automatizált repüléshez szükséges szoftver telepítése a mobiltelefonra (Pix4DCapture, DroneDeploy, ….)
 * A megfelelő terület felkutatása. #&@ jóvoltából több helyen elérhető repülőről előállított friss
-* Biztosítás
-* Légtérhasználati engedély
+* Biztosítás: https://doe.hu/felelossegbiztositas
+* Eseti légtérhasználati engedély: https://legter.hu/
 * Teljesen feltöltött akkumulátorok
 
 * Aktivált légtérhasználat a területen
