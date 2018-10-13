@@ -30,3 +30,15 @@ Az utóbbi évek technikai fejlődésével elérhetővé vált a drónos felmér
 
 * Repülési magasság: 105-120 méter
 * Átfedés a képek között: 75-85% 
+
+## Feldolgozás
+
+### Ortofotó készítés
+
+A légi felvételekből a térképezéshez szükséges ortofotók előállításához nyílt forráskódú szoftverek használhatók:
+
+* OpenDroneMap: https://www.opendronemap.org/
+* WebODM: https://www.opendronemap.org/webodm/
+* MicMac: https://micmac.ensg.eu
+* VisualSFM: http://ccwu.me/vsfm/
+* stb
