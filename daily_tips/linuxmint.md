@@ -83,10 +83,15 @@ Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
 
 LINUX TIPP:
 A Google Earth segítségével lehet nézegetni műholdképeket, térképeket, felszíneket, 3D épületeket, de akár a saját lakóhelyet is.
-A deb. fájl innen letölthető 32 és 64 bit változatban is.
-http://www.google.hu/intl/hu/earth/download/ge/agree.html
+A szoftvert beszeretheted a Szoftverekezelőből, csak keress rá „google earth” és telepítsd az alkalmazást.
 Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
  #LinuxMint #LinuxMintHU #NapiLinuxMint #LinuxMintTIPP
+
+
+LINUX MINT KÖZÖSSÉGI TIPP:
+Linux Mint-et használsz? Most kezdted? Vagy már profi vagy?
+Gyere és legyél méginkább közösségünk tagja! Regisztrálj mihamarabb a https://linuxmint.hu/ oldalra, ahol a friss hírek mellett, lehetőséged van csevegni, vagy segíteni másoknak a fórumon. A súgóban pedig hasznos információkat találsz a rendszered használatával kapcsolatban.
+#LinuxMint #LinuxMintHU #NapiLinuxMint #LinuxMintTIPP #Közösség
 
 
 LINUX MINT TIPP:
@@ -107,7 +112,7 @@ Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
 
 
 LINUX MINT TIPP:
-Egy kép többet mond ezer szónál. Pláne ha segítségre van szükséged, vagy megmutatnád másoknak is, milyen jól néz ki az asztalod. Ha éppen képernyőképet kellene készítened, ami a kijelződön látható kép elmentése egy képfájlba, akkor ezt könnyedén megteheted. Amennyiben a képernyő egészéről készítenél képet, akkor nyomd meg a billentyűzeteden a PrtSc (Print Screen) gombot. Csak az aktuális ablakról készítenél egy képernyőképet? Akkor nyomd meg az ALT+ PrtSc (Print Screen) billentyű-kombinációt.
+Egy kép többet mond ezer szónál. Pláne ha segítségre van szükséged, vagy megmutatnád másoknak is, milyen jól néz ki az asztalod. Ha éppen képernyőképet kellene készítened, ami a kijelződön látható kép elmentése egy képfájlba, akkor ezt könnyedén megteheted. Amennyiben a képernyő egészéről készítenél képet, akkor nyomd meg a billentyűzeteden a PrtSc (Print Screen) gombot. Csak az aktuális ablakról készítenél egy képernyőképet? Akkor nyomd meg az ALT + PrtSc (Print Screen) billentyű-kombinációt.
 Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
  #LinuxMint #LinuxMintHU #NapiLinuxMint #LinuxMintTIPP
 
@@ -176,7 +181,7 @@ Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
 
 
 LINUX MINT TIPP:
-Kedveled a szabad szoftvereket? Imádni fogod a szabad tartalmakat is. Összefoglaló Pfeiffer Szilárd (BalaBit) : Creative Commons: Hat licenc mind felett - előadásából:
+Kedveled a szabad szoftvereket? Imádni fogod a szabad tartalmakat is. Összefoglaló Pfeiffer Szilárd: Creative Commons: Hat licenc mind felett - előadásából:
 https://www.youtube.com/watch?v=OOwfm0Cy8ps
 Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
  #LinuxMint #LinuxMintHU #NapiLinuxMint #LinuxMintTIPP
@@ -197,10 +202,16 @@ Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
 
 
 LINUX MINT TIPP:
-Tudtad, hogy a Linux Mint négyféle asztali környezettel érhető el?
+Tudtad, hogy a Linux Mint háromféle (régebben négyféle) asztali környezettel érhető el?
 A Cinnamon és a MATE kifejezetten a Linux Minthez készült saját fejlesztés, a KDE egy robusztus, sokoldalúságáról híres tradicionális környezet, míg az Xfce használatát a kisebb teljesítményű számítógépekhez ajánljuk. Te melyik környezetet használod? Vagy melyiket szeretnjéd kipróbálni?
 Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
  #LinuxMint #LinuxMintHU #NapiLinuxMint #LinuxMintTIPP
+
+
+MOST TE JÖSSZ!
+Te hogy lettél linuxos? Hogy kezdted el használni a Linux Mint-et? Páran már elmesélték nekünk. Ezeket a történeteket itt tudjátok elolvasni: https://linuxmint.hu/kozosseg/velemenyek
+Oszd meg velünk a saját történetedet! Akár a LinuxMint.hu oldalon is viszontláthatod majd…
+ #LinuxMint #LinuxMintHU #NapiLinuxMint #LinuxMintKözösség #Közösség
 
 
 ##Sablonok
@@ -209,4 +220,5 @@ LINUX MINT TIPP:
 
 Nyomj egy lájkot és oszd meg ezt a bejegyzést, ha szerinted hasznos volt!
  #LinuxMint #LinuxMintHU #NapiLinuxMint #LinuxMintTIPP
+
 
