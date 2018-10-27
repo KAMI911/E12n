@@ -20,8 +20,8 @@ Az utóbbi évek technikai fejlődésével elérhetővé vált a drónos felmér
 
 * Az automatizált repüléshez szükséges szoftver telepítése a mobiltelefonra (Pix4DCapture, DroneDeploy, ….)
 * A megfelelő terület felkutatása. #&@ jóvoltából több helyen elérhető repülőről előállított friss
-* Biztosítás
-* Légtérhasználati engedély
+* Biztosítás: https://doe.hu/felelossegbiztositas
+* Eseti légtérhasználati engedély: https://legter.hu/
 * Teljesen feltöltött akkumulátorok
 
 * Aktivált légtérhasználat a területen
@@ -30,3 +30,15 @@ Az utóbbi évek technikai fejlődésével elérhetővé vált a drónos felmér
 
 * Repülési magasság: 105-120 méter
 * Átfedés a képek között: 75-85% 
+
+## Feldolgozás
+
+### Ortofotó készítés
+
+A légi felvételekből a térképezéshez szükséges ortofotók előállításához nyílt forráskódú szoftverek használhatók:
+
+* OpenDroneMap: https://www.opendronemap.org/
+* WebODM: https://www.opendronemap.org/webodm/
+* MicMac: https://micmac.ensg.eu
+* VisualSFM: http://ccwu.me/vsfm/
+* stb
