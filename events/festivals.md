@@ -1,11 +1,18 @@
-﻿# Fesztiválok
+# Fesztiválok
 
-## Részvétel fesztiválotokon
+## Részvétel fesztiválokon
 
 
 ## Ismeretterjesztés
 
+
 ### Ismertető anyagok
+
+* Ismeretető a Quiz kérdésekkel kapcsolatban
+
+* Biztonságos internet-használat
+
+* Közreműködési lehetőségek
 
 ### Előadások
 
@@ -19,7 +26,7 @@
 
 * Mapillary és OpenStreetCam bemutató
 
-## Játékok
+## Feladatok
 
 * Quiz
 
@@ -40,6 +47,8 @@ Partifotók készítése és közreadása CC licenc alatt
 Egy még nem létező témából új szócikk készítése: egy együttes, a fesztiválról, egyéb témákról.
 
 Wifi-n elérhető vagy papír alapú játék. A wifi-s megoldás a preferált. Egy vagy több fajta quiz, amely több témakört érint. A Quizhez csatlakoznak ismertető anyagok, amelyek több példányban laminálva vannak elhelyezve az asztalokon.
+
+## Játékok
 
 * Memória játék (kártyajáték)
 
