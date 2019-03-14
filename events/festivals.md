@@ -23,6 +23,15 @@
 
 * Quiz
 
+* Vespucci - OSM adatok gyűjtések
+
+Helyek szerkesztése Vespucci alkalmazással. OSM fiók létrehozás és alkalmazás telepítés. Alap funkciók bemutatása. Másnap ellenőrzés.
+
+* Mapillary
+
+Mappilary képek készítése a fesztivál helysznéről illetve a városról.
+
+
 Wifi-n elérhető vagy papír alapú játék. A wifi-s megoldás a preferált. Egy vagy több fajta quiz, amely több témakört érint. A Quizhez csatlakoznak ismertető anyagok, amelyek több példányban laminálva vannak elhelyezve az asztalokon.
 
 * Memória játék (kártyajáték)
@@ -37,5 +46,3 @@ Lehet ketten, vagy többen, esetleg egyedül játszani.
 
 A kerek lapokon bármelyik két lapon csak egyetlen azonos logó van. A kinyomtatott lapokon szabad szoftveres logók vannak. A játékmester egy lapot tesz ki középre. A játékosok azonos logót keresnek. A játék lényege, hogy az aki a leggyorsabban meg tudja nevezni a logót, amely azonos a saját és középre kirakott kártya között, az adott osztást megnyerte. A megnyert lap a játékoshoz kerül. Az nyer akinek a legtöbb összegyűjtött kártyája van.
 Lehet ketten, vagy többen játszani.
-
-
