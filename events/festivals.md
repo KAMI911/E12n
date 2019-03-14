@@ -31,6 +31,13 @@ Helyek szerkesztése Vespucci alkalmazással. OSM fiók létrehozás és alkalma
 
 Mappilary képek készítése a fesztivál helysznéről illetve a városról.
 
+* Fesztiválképek készítése
+
+Partifotók készítése és közreadása CC licenc alatt
+
+* Wikipédia szócikk készítés
+
+Egy még nem létező témából új szócikk készítése: egy együttes, a fesztiválról, egyéb témákról.
 
 Wifi-n elérhető vagy papír alapú játék. A wifi-s megoldás a preferált. Egy vagy több fajta quiz, amely több témakört érint. A Quizhez csatlakoznak ismertető anyagok, amelyek több példányban laminálva vannak elhelyezve az asztalokon.
 
