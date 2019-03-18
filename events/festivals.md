@@ -71,18 +71,18 @@ Megjelenésünkről rendszerint képpel, blog-, valamint IT hírújság beszámo
 
 * 2016
 
-    [2016 nyári aktivitás](https://itcafe.hu/hir/mozilla_firefox_2016_nyar.html)
+    [2016-os nyári aktivitás](https://itcafe.hu/hir/mozilla_firefox_2016_nyar.html)
 
 * 2013
 
-    [2013-as nyári aktivitás](https://itcafe.hu/cikk/mozilla_firefox_os_2013_ertekelo/majus-augusztus.html)
-    https://itcafe.hu/hir/mozilla_szin_szeged.html
+    [2013-as nyári aktivitás beszámoló](https://itcafe.hu/cikk/mozilla_firefox_os_2013_ertekelo/majus-augusztus.html)
+    [A szabad szoftveres közösség a SZIN-en](https://itcafe.hu/hir/mozilla_szin_szeged.html)
     https://www.facebook.com/MozillaHU/photos/a.10152224398251479/10152224405946479/?type=1&theater
-    https://itcafe.hu/hir/mozilla_szabad_szoftver_hegyalja_fesztival_video.html
+    [2012-es Hegyalja Fesztivál videó-összefoglaló](https://itcafe.hu/hir/mozilla_szabad_szoftver_hegyalja_fesztival_video.html)
 
 * 2012
 
-    http://hup.hu/cikkek/20130130/videobeszamolo_a_hegyalja_fesztival_2012-rol
+    [2012-es Hegyalja Fesztivál beszámoló](http://hup.hu/cikkek/20130130/videobeszamolo_a_hegyalja_fesztival_2012-rol)
     https://www.facebook.com/media/set/?set=a.10150937090336479.408725.372155461478
     https://www.facebook.com/media/set/?set=a.10150939026516479.408944.372155461478
     [2012-es Hegyalja Fesztivál videó-összefoglaló](https://www.youtube.com/watch?v=ZgdCVJHXDFw)
