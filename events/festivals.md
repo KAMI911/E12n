@@ -1,14 +1,25 @@
-# Fesztiválok
+﻿# Fesztiválok
 
 ## Részvétel fesztiválokon
 
+Fesztiváli részvételünk célja, hogy a vendégeket „biztonságba helyezzük az interneten”. Azaz megtanítsuk számukra a legfontosabb technikákat, amellyel megvédhetik adataikat, regisztrációjukat, jelszavaikat, saját magukat és számítógépüket az interneten fenyegető veszélyektől. Bemutatjuk a különbségeket a szabad szoftverek és a kereskedelmi szoftverek között. Elmeséljük, hogyan vehetnek részt a szabad szoftverekkel kapcsolatos tevékenységekben, és hogy ez a z önkéntes munka milyen módon segíti a szakmai előmenetelüket.
+
+Ismertető brosúrákon bemutatjuk, személyesen elmondjuk, hogy:
+* miképpen hozhatnak létre biztonságos jelszavakat,
+* hogyan kezeljék jelszavaikat jelszókezelővel (böngészőbe épített és külső megoldások),
+* hogyan kapcsolhatják be a kétlépcsős azonosítást fiókjaik védelmében,
+* milyen tartalmakat osszanak meg és ne osszanak meg az interneten,
+* mik azok az álhírek, és hogyan ismerhetik fel,
+* milyen módon biztosítsák eszközeik védelmét,
+* mik azok a szabad szoftverek és miért érdemes őket használni,
+* mik azok a szabad tartalmak, hogyan használhatják őket, hogyan segíthetnek új tartalmak előállításában (Wikipedia, Common license, OpenStreetMap)
+* hogyan működhetnek közre szabad szoftveres projektekben – akár programozói tudás nélkül is.
 
 ## Ismeretterjesztés
 
-
 ### Ismertető anyagok
 
-* Ismeretető a Quiz kérdésekkel kapcsolatban
+* Ismertető a Quiz kérdésekkel kapcsolatban
 
 * Biztonságos internet-használat
 
@@ -22,7 +33,7 @@
 
 ## Bemutatók
 
-* Drónos légifelvétel készítés bemutatók
+* Drónos légi felvétel készítés bemutatók
 
 * Mapillary és OpenStreetCam bemutató
 
