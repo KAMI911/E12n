@@ -1,0 +1,31 @@
+﻿Mozilla Quiz 2019
+
+1. Előfordul hogy nagy fájlokat (>25Mb ) küldenél, aminek nem szeretnéd, hogy nyoma maradjon a neten? Van ilyen szolgáltatás a Firefoxnak?
+Helyes: Van ez a Firefox Send amellyel a végpontok közötti titkosítással oszthatsz meg fájlokat, a hivatkozások pedig automatikusan lejárnak. Így bizalmasan tarthatod  azt, amit megosztasz, és biztosíthatod, hogy a dolgok nem maradnak örökre online.
+
+2. Tud-e a Firefox biztonsági segítséget nyújtani az adataink megvédésével kapcsolatban?
+Helyes: Létezik a Firefox Monitor, amiben ellenőrizhetjük például az email címünket, hogy az került-e már rossz kezébe, illetve segít megtenni a kezdő lépéseket a biztonság növelésére.
+
+3. Mire használható a Firefox Pocket?
+Helyes: Elmenthetjük benne a könyvjelzőinket és ezt a fiókunk szinkronizálja és minden eszközünkön láthatjuk.
+
+4. Képes e a Firefox Lockwise tárolni minden adatunkat biztonságosan?
+Helyes: Igen, egy több kulcsos titkosítás van rajta amit szinte lehetetlen feltörni.
+
+5. Mire képes a Firefox Reality?
+Helyes: Egy új böngésző (2018), amivel kihasználhatóak a virtuális valóságban rejlő lehetőségek (VR)
+
+6. Milyen eszközön / platformon érhető el a Firefox?
+Helyes: Asztali gépen, táblagépen, telefonon, TV készülékeken
+
+7. Mi a Firefox Nightly?
+Helyes: Ez egy tesztelői, fejlesztői platform
+
+8. A megjelenéskor min alapult a Mozilla böngészője?
+Helyes: Netscape Navigator
+
+9. Van megoldása a dolgok internete technológiák (IOT) használatára a Mozillának?
+Helyes: Igen, a Mozilla WebThings amely egy nyílt platform az IOT eszközök vezérlésére és monitorozására.
+
+10. Mennyibe kerül a Mozilla megoldásainak használata?
+Helyes: A Mozilla megoldása mind szabad szoftverek...
