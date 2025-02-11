@@ -9,7 +9,7 @@ INSERT INTO `mq_new`.`rightAnswers` (`idQuestion`,`idChoice`,`score`) VALUES (1,
 
 INSERT INTO `mq_new`.`quizQuestions` (`idQuestion`,`textQuestion`,`quizLanguage`,`quizType`) VALUES (2,"Melyik OpenStreetMap alapú szoftverrel érhető el akár országos lefedettségű offline, mobilos navigáció?","hu",1);
 INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`,`quizLanguage`) VALUES (2,1,"OsmAnd","hu");
-INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`,`quizLanguage`) VALUES (2,2,"MAPS.ME","hu");
+INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`,`quizLanguage`) VALUES (2,2,"Organic Maps","hu");
 INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`,`quizLanguage`) VALUES (2,3,"Google Maps","hu");
 INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`,`quizLanguage`) VALUES (2,4,"Here Maps","hu");
 INSERT INTO `mq_new`.`rightAnswers` (`idQuestion`,`idChoice`,`score`) VALUES (2,1,5);
@@ -52,7 +52,7 @@ INSERT INTO `mq_new`.`rightAnswers` (`idQuestion`,`idChoice`,`score`) VALUES (6,
 INSERT INTO `mq_new`.`quizQuestions` (`idQuestion`,`textQuestion`,`quizLanguage`,`quizType`) VALUES (7,"Többek között melyik szoftverekkel szerkeszthető az OpenStreetMap térképe?","hu",1);
 INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`,`quizLanguage`) VALUES (7,1,"JOSM – Java OpenStreetMap Editor","hu");
 INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`,`quizLanguage`) VALUES (7,2,"OsmAnd","hu");
-INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`,`quizLanguage`) VALUES (7,3,"Maps.me","hu");
+INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`,`quizLanguage`) VALUES (7,3,"Organic Maps","hu");
 INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`,`quizLanguage`) VALUES (7,4,"iD Editor","hu");
 INSERT INTO `mq_new`.`rightAnswers` (`idQuestion`,`idChoice`,`score`) VALUES (7,1,5);
 INSERT INTO `mq_new`.`rightAnswers` (`idQuestion`,`idChoice`,`score`) VALUES (7,2,5);
@@ -97,7 +97,7 @@ INSERT INTO `mq_new`.`rightAnswers` (`idQuestion`,`idChoice`,`score`) VALUES (12
 INSERT INTO `mq_new`.`rightAnswers` (`idQuestion`,`idChoice`,`score`) VALUES (12,3,5);
 
 INSERT INTO `mq_new`.`quizQuestions` (`idQuestion`,`textQuestion`,`quizLanguage`,`quizType`) VALUES (13,"Mi a W.I.N.E. szó jelentése ?","hu",1);
-INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`,`quizLanguage`) VALUES (13,1,"Windows Interactive Natural  Engine","hu");
+INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`,`quizLanguage`) VALUES (13,1,"Windows Interactive Natural Engine","hu");
 INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`,`quizLanguage`) VALUES (13,2,"Wine Is Not an Emulator","hu");
 INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`,`quizLanguage`) VALUES (13,3,"Wicked Installer Not Effective","hu");
 INSERT INTO `mq_new`.`rightAnswers` (`idQuestion`,`idChoice`,`score`) VALUES (13,2,5);
