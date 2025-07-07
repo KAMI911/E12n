@@ -134,11 +134,11 @@ INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`
 INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`,`quizLanguage`) VALUES (15,3,"Társasjáték tőzsdecápáknak","hu");
 INSERT INTO `mq_new`.`rightAnswers` (`idQuestion`,`idChoice`,`score`) VALUES (15,1,5);
 
-INSERT INTO `mq_new`.`quizQuestions` (`idQuestion`,`textQuestion`,`quizLanguage`,`quizType`) VALUES (16,"Milyen platformra vagy platformokra érhető el a Firefox mobil verziója?","hu",1);
-INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`,`quizLanguage`) VALUES (16,1,"Symbian","hu");
-INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`,`quizLanguage`) VALUES (16,2,"Bada","hu");
-INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`,`quizLanguage`) VALUES (16,3,"Android","hu");
-INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`,`quizLanguage`) VALUES (16,4,"iOS","hu");
+INSERT INTO `mq_new`.`quizQuestions` (`idQuestion`,`textQuestion`,`quizLanguage`,`quizType`) VALUES (16,"Mely alkalmazásboltból telepíthetsz szigorúan csak szabad szoftvereket Androidon?","hu",1);
+INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`,`quizLanguage`) VALUES (16,1,"Play Store","hu");
+INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`,`quizLanguage`) VALUES (16,2,"F-Droid","hu");
+INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`,`quizLanguage`) VALUES (16,3,"Aptoide","hu");
+INSERT INTO `mq_new`.`quizQuestionChoices` (`idQuestion`,`idChoice`,`textChoice`,`quizLanguage`) VALUES (16,4,"Galaxy Store","hu");
 INSERT INTO `mq_new`.`rightAnswers` (`idQuestion`,`idChoice`,`score`) VALUES (16,3,5);
 INSERT INTO `mq_new`.`rightAnswers` (`idQuestion`,`idChoice`,`score`) VALUES (16,4,5);
 
